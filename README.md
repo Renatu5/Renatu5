@@ -2,7 +2,7 @@
 
 - Estou estudando backend;
 - Possuo 16 anos;
-- Participo do projeto "Aceleradora Agíl", da TW("ThoughtWorks") com a PucRs
+- Contato: renatoosoouzaa26@gmail.com
 <br />
 <br />
 <div >
@@ -22,5 +22,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
  <br/>
-  
-  <a href = "mailto:erickcardosofront"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
