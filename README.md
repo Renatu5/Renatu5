@@ -1,7 +1,7 @@
 ### Opa, fala ae, me chamo Renato
 
 - Estou estudando backend;
-- Possuo 16 anos;
+- Possuo 17 anos;
 - Contato: renatoosoouzaa26@gmail.com
 <br />
 <br />
