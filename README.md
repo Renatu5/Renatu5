@@ -1,6 +1,6 @@
 ### Opa, fala ae, me chamo Renato
 
-- Estou estudando backend;
+- Estou estudando Javascript e frameworks, como React;
 - Possuo 17 anos;
 - Contato: renatoosoouzaa26@gmail.com
 <br />
