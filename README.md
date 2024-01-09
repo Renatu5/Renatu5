@@ -1,7 +1,8 @@
 ### Opa, fala ae, me chamo Renato
 
-- Estou estudando Javascript e frameworks, como React;
-- Possuo 17 anos;
+- Estou estudando Javascript, nodeJS, SQL e frameworks, como React;
+- Estou com 18 anos;
+- Estou prestes a começar minha faculdade em Engenharia de Software, na PUCRS
 - Contato: renatoosoouzaa26@gmail.com
   <div style="display: inline_block"><br>
   <img align="center" alt="Renato-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
