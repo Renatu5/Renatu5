@@ -1,7 +1,6 @@
 ### Opa, fala ae, me chamo Renato
 
 - Estou estudando Javascript, nodeJS, Java, SQL e frameworks, como React;
-- Estou com 19 anos;
 - Estou estudando Engenharia de Software, na PUCRS - Terceiro Semestre
 - Contatos:
   - renatoosoouzaa26@gmail.com
