@@ -1,7 +1,7 @@
 ### Opa, fala ae, me chamo Renato
 
 - Estou estudando Javascript, nodeJS, Java, SQL e frameworks, como React;
-- Estou estudando Engenharia de Software, na PUCRS - Terceiro Semestre
+- Estou estudando Engenharia de Software, na PUCRS - Quarto Semestre
 - Contatos:
   - renatoosoouzaa26@gmail.com
   - renato.souza003@edu.pucrs.br
