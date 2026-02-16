@@ -1,6 +1,6 @@
 ### Opa, fala ae, me chamo Renato
 
-- Estou estudando Javascript, nodeJS, Java, SQL e frameworks, como React;
+- Estou estudando Javascript, nodeJS, Java, SQL e outras ferramentas, como React, Spring Framework;
 - Estou estudando Engenharia de Software, na PUCRS - Quarto Semestre
 - Contatos:
   - renatomachadodsouza@gmail.com
